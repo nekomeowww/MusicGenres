@@ -1,0 +1,22 @@
+{
+  "name": "musicgenres-json",
+  "version": "1.0.0",
+  "description": "The JSON list for all the general music genres",
+  "main": "index.js",
+  "repository": "https://github.com/nekomeowww/MusicGenres",
+  "author": "Ayaka Neko <neko@ayaka.moe>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node src/generate.js",
+    "test": "node test/test.js",
+    "dist": "rimraf ./dist && cross-env NODE_ENV=production webpack --hide-modules"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "rimraf": "^3.0.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "webpack": "^4.44.1"
+  }
+}
