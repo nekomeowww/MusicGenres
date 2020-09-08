@@ -4,7 +4,7 @@
 name: Node Test
 
 on:
-  test:
+  push:
     branches: [ master ]
 
 jobs:
