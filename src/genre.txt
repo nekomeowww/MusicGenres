@@ -310,7 +310,7 @@ Oldschool Jungle
 Darkside Jungle
 Ragga Jungle
 Raggacore
-Sambass
+Sambas
 Techstep
 Electro
 Crunk
@@ -595,6 +595,7 @@ Modern Metal
 Neoclassical Metal
 New Wave Of British Heavy Metal
 Post Metal
+Post Rock
 Progressive Metal
 Avantgarde Metal
 Sludge
@@ -906,3 +907,21 @@ Traditional Celtic
 Worldbeat
 Zydeco
 Natrual
+Future Bass
+Kawaii Future Bass
+Bubblegum Bass
+Slime Punk
+UK Bass
+Euro Disco
+Nu Disco
+Post Disco
+Synth Punk
+Synthwave
+Vaporwave
+Future Funk
+Hardvapour
+Mallsoft
+Melodic Dubstep
+Bigroom
+Future
+Midtempo

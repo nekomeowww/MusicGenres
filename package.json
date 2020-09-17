@@ -1,6 +1,6 @@
 {
   "name": "musicgenres-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The JSON list for all the general music genres",
   "main": "index.js",
   "repository": "https://github.com/nekomeowww/MusicGenres",

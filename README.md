@@ -1,5 +1,6 @@
 <h1 align="center">MusicGenres</h1>
 <p align="center">The JSON list for all the general music genres</p>
+<p align="center">We provide the genres up to 900+ for library builder!</p>
 <p align="center">
     <img src="https://github.com/nekomeowww/MusicGenres/workflows/Node%20Test/badge.svg" />
     <img src="https://github.com/nekomeowww/MusicGenres/workflows/Node%20Build/badge.svg" />
@@ -58,3 +59,25 @@ console.log(genres.get())
 ### get()
 **Type**: Function
 **Description**: return genres as method
+
+## Changelog
+### v1.0.1
+- Added Post Rock
+- Added Future Bass
+- Added Kawaii Future Bass
+- Added Bubblegum Bass
+- Added Slime Punk
+- Added UK Bass
+- Added Euro Disco
+- Added Nu Disco
+- Added Post Disco
+- Added Synth Punk
+- Added Synthwave
+- Added Vaporwave
+- Added Future Funk
+- Added Hardvapour
+- Added Mallsoft
+- Added Melodic Dubstep
+- Added Bigroom
+- Added Future
+- Added Midtempo
