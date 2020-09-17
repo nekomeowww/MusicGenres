@@ -103,4 +103,4 @@ typings/
 .tern-port
 
 # User Cresidential
-.npmrc
+.npmrc*

@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "webpack": "^4.44.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@nekomeowww" }
 }
