@@ -61,6 +61,13 @@ console.log(genres.get())
 **Description**: return genres as method
 
 ## Changelog
+
+## v1.0.2
+- Added Classical Chinese Poetry (古风词曲)
+- Added Vocaloid
+- Added Chinese Vocal
+- Added Classical Chinese (古风)
+
 ### v1.0.1
 - Added Post Rock
 - Added Future Bass
