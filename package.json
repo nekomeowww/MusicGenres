@@ -1,5 +1,5 @@
 {
-  "name": "musicgenres-json",
+  "name": "@nekomeowww/musicgenres-json",
   "version": "1.0.2",
   "description": "The JSON list for all the general music genres",
   "main": "index.js",
@@ -19,5 +19,5 @@
   "dependencies": {
     "webpack": "^4.44.1"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@nekomeowww" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com" }
 }
